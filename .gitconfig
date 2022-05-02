@@ -1,0 +1,6 @@
+[user]
+	signingkey = 674FB38188FC013C
+[commit]
+	gpgsign = true
+[core]
+	editor = code --wait

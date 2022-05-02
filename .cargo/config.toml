@@ -1,0 +1,5 @@
+[alias]
+test-dbg = "test -- --nocapture --test-threads 1"
+
+[env]
+RUST_BACKTRACE = "1"
